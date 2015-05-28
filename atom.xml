@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://claymo23.github.io/blog/atom.xml" rel="self"/>
   <link href="http://claymo23.github.io/blog/"/>
-  <updated>2015-05-27T20:32:49-05:00</updated>
+  <updated>2015-05-27T20:49:32-05:00</updated>
   <id>http://claymo23.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Awesome New Post]]></title>
+    <link href="http://claymo23.github.io/blog/blog/2015/05/27/awesome-new-post/"/>
+    <updated>2015-05-27T20:38:15-05:00</updated>
+    <id>http://claymo23.github.io/blog/blog/2015/05/27/awesome-new-post</id>
+    <content type="html"><![CDATA[<h1>miller park holds 60000 people</h1>
+]]></content>
+  </entry>
   
 </feed>
