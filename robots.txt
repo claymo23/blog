@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://claymo23.github.io/blog/sitemap.xml 
